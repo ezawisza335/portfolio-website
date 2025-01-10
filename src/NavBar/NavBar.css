@@ -1,0 +1,14 @@
+.navbar-container {
+  background-color: rebeccapurple;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 10vh;
+  align-items: center;
+}
+
+.link {
+  font-size: larger;
+  color: aliceblue;
+}

@@ -1,0 +1,11 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  border: solid 1px black;
+  color: aliceblue;
+  background-color: rebeccapurple;
+}
