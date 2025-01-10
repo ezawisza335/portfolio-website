@@ -13,7 +13,7 @@ export default function App() {
     <Routes>
       <Route
         exact
-        path="/"
+        path="/*"
         element={
           <div className="app-container">
             <NavBar />
@@ -24,7 +24,7 @@ export default function App() {
       />
       <Route
         exact
-        path="/projects"
+        path="projects"
         element={
           <div className="app-container">
             <NavBar />
@@ -35,7 +35,7 @@ export default function App() {
       />
       <Route
         exact
-        path="/contact"
+        path="contact"
         element={
           <div className="app-container">
             <NavBar />
